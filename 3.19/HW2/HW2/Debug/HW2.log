@@ -1,0 +1,4 @@
+﻿  Main.c
+c:\c_code\109360238_1\3.19\source\main.c(11): warning C4101: 'e': 未參考的區域變數
+c:\c_code\109360238_1\3.19\source\main.c(10): warning C4101: 'd': 未參考的區域變數
+  HW2.vcxproj -> C:\c_code\109360238_1\3.19\HW2\Debug\HW2.exe
